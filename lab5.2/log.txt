@@ -1,0 +1,8 @@
+дек. 21, 2023 11:58:55 AM org.example.App main
+INFO: App start
+дек. 21, 2023 11:58:55 AM org.example.App main
+INFO: Connect to DB
+дек. 21, 2023 11:58:59 AM org.example.App main
+INFO: Clients output request
+дек. 21, 2023 11:59:29 AM org.example.App main
+INFO: Clients output request

@@ -1,0 +1,21 @@
+plugins{
+    id 'java'
+    id 'application'
+}
+
+dependencies {
+    implementation "joda-time:joda-time:2.12.5"
+}
+
+repositories{
+    mavenLocal()
+    mavenCentral()
+}
+
+jar{
+    archiveBaseName = "build"
+    archiveVersion = "0.1"
+}
+application{
+    mainClassName = "hello.HelloWorld"
+}
